@@ -1,6 +1,6 @@
 # Frontend Mentor - REST Countries API with color theme switcher
 ## Netlify link
-https://cheerful-empanada-3dd948.netlify.app
+https://lively-croquembouche-b62698.netlify.app/
 
 ![Design preview for the REST Countries API with color theme switcher coding challenge](./design/desktop-preview.jpg)
 
